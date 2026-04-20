@@ -1,1 +1,0 @@
-# SQL_Project-Walmart_SQL_Project
